@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TechSolutionsLLC/static/css/main.c1ac8c0b.css",
+    "main.js": "/TechSolutionsLLC/static/js/main.1b888f73.js",
+    "static/js/453.89454847.chunk.js": "/TechSolutionsLLC/static/js/453.89454847.chunk.js",
+    "index.html": "/TechSolutionsLLC/index.html",
+    "main.c1ac8c0b.css.map": "/TechSolutionsLLC/static/css/main.c1ac8c0b.css.map",
+    "main.1b888f73.js.map": "/TechSolutionsLLC/static/js/main.1b888f73.js.map",
+    "453.89454847.chunk.js.map": "/TechSolutionsLLC/static/js/453.89454847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ac8c0b.css",
+    "static/js/main.1b888f73.js"
+  ]
+}
